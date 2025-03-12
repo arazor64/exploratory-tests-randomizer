@@ -1,0 +1,26 @@
+.etr-generator {
+	background-color: white;
+    border-right: 2px;
+	border-right:solid;
+    border-color: black;
+	border-width: 2px;
+	padding: 5%;
+	display: flex;
+    position: relative;
+    text-align: center;
+}
+
+.etr-generator-title{
+	color:rgb(146, 18, 18);
+	text-align: center;
+}
+
+.etr-generator-subtitle{
+	text-align: center;
+}
+
+.etr-generator-btn{
+	background:rgb(142, 58, 58);
+	color:white;
+	height: 5%;
+}

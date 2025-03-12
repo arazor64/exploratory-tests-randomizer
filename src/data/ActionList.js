@@ -1,0 +1,25 @@
+export const actionList = {
+	customer: [
+		'Acheter un produit ou un service',
+		'Acheter plusieurs produits ou services',
+		'Profiter des promotions',
+		'Trouver le(s) meilleur(s) poduit(s) pour son besoin',
+		'Faire un retour',
+		'Contacter le service client',
+		'Donner un avis sur un produit',
+		'Comparer des produits',
+		'Consulter le suivi de commande',
+		'Trouver du conseil',
+		"Acheter un produit spécifique (couleur + taille connues d'avance)",
+		'Découvrir la marque',
+		'Vérifier le stock en ligne',
+		'Réserver un produit en magasin',
+		"Profiter du programme de fidélité (s'inscrire, gagner des points, profiter des avantages)",
+		'Utiliser une carte cadeau',
+	],
+	supplier: [
+		'Réceptionner une commande',
+		'Ajouter des quantités en stock',
+		'Retirer des quantités dans le stock',
+	],
+};

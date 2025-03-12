@@ -1,0 +1,23 @@
+.etr-banner{
+    color: white;
+    background: rgb(142, 36, 36) ;
+    border-bottom: solid 2px black;
+    height: 100px;
+    align-items: center;
+    display: flex;
+}
+
+.etr-title{
+    flex:1;
+    position: relative;
+    text-align: left;
+    padding-left: 50px;
+}
+
+.etr-logo{
+    position: relative;
+    height: 100px;
+    width:  100px;
+    align-items: right;
+}
+
