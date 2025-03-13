@@ -1,9 +1,8 @@
 .etr-notice {
     flex: 1;
     background: #ddd;
-    padding: 2%;
+    padding: 10px;
 	background-color: rgba(234, 232, 232, 0.943);
-    border-color: black;
     position: relative;
 }
 .etr-notice-title {
@@ -19,4 +18,9 @@
 .etr-notice-list{
     font-size: medium;
     text-align: left;
+}
+
+@media screen and (max-width: 768px) {
+  .etr-notice {
+  }
 }

@@ -2,6 +2,14 @@
     border-color: black;
     border:1%;
     border-right: solid;
-    padding-right: 5%;
-    padding-left: 5%;
+    padding: 10px;
+    flex: 1;
+}
+
+/* 🔹 Responsive : Mobile */
+@media screen and (max-width: 1132px) {
+  .etr-behaviour {
+   border-right: none;
+   border-top: solid;
+  }
 }

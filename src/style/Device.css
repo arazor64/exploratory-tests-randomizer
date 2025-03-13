@@ -1,4 +1,11 @@
 .etr-device{
-    padding-right: 5%;
-    padding-left: 5%;
+  flex: 1;
+  padding: 10px;
+}
+
+@media screen and (max-width: 1132px) {
+  .etr-device {
+   border-right: none;
+   border-top: solid;
+  }
 }

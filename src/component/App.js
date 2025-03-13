@@ -7,6 +7,8 @@ import Footer from './Footer';
 function App() {
 	return (
 		<div className="App">
+			<title>Exploratory tests randomizer</title>
+
 			<Banner />
 			<div className="etr-layout-inner">
 				<Generator />
